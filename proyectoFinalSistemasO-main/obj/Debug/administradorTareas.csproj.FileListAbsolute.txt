@@ -1,0 +1,49 @@
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.csprojAssemblyReference.cache
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.FormPrincipal.resources
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.Properties.Resources.resources
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.csproj.GenerateResource.cache
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.csproj.CoreCompileInputs.cache
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\bin\Debug\administradorTareas.exe.config
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\bin\Debug\administradorTareas.exe
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\bin\Debug\administradorTareas.pdb
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\bin\Debug\Guna.UI2.dll
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.csproj.CopyComplete
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.exe
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.pdb
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.Form1.resources
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.Form2.resources
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.Form3.resources
+C:\Users\Manucho\Desktop\UMG\2022\SEMESTRE 2\SISTEMAS OPERATIVOS\ADMINISTRADOR\administradorTareas\obj\Debug\administradorTareas.Form4.resources
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\bin\Debug\administradorTareas.exe.config
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\bin\Debug\administradorTareas.exe
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\bin\Debug\administradorTareas.pdb
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.AssemblyReference.cache
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Form1.resources
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Form2.resources
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Form3.resources
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Form4.resources
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.FormPrincipal.resources
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Properties.Resources.resources
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.GenerateResource.cache
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.CopyComplete
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.exe
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.pdb
+C:\Users\crist\Downloads\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\bin\Debug\administradorTareas.exe.config
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\bin\Debug\administradorTareas.exe
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\bin\Debug\administradorTareas.pdb
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.AssemblyReference.cache
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Form1.resources
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Form2.resources
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Form3.resources
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Form4.resources
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.FormPrincipal.resources
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.Properties.Resources.resources
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.GenerateResource.cache
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.CoreCompileInputs.cache
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.csproj.CopyComplete
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.exe
+C:\Users\E´KEFÁ IBOY\Dropbox\PC\Desktop\proyectoFinalSistemasO-main\proyectoFinalSistemasO-main\obj\Debug\administradorTareas.pdb
